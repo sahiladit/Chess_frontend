@@ -225,12 +225,6 @@ Deploy using
 
 ---
 
-## 📸 Screenshots
-
-]
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
