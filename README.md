@@ -208,6 +208,13 @@ http://localhost:5173
 
 ---
 
+Screenshots 
+
+<img width="1440" height="857" alt="Screenshot 2026-08-02 at 11 10 18 PM" src="https://github.com/user-attachments/assets/a9047cdc-a1d6-45e0-a9e0-80ef78d3a330" />
+
+
+---
+
 ## 🌐 Deployment
 
 ### Frontend
