@@ -4,7 +4,7 @@ export const useSocket = () => {
     const [socket, setSocket] = useState<WebSocket | null>(null);
 
     useEffect(() => {
-        const newSocket = new WebSocket("https://chess-backend-2-u0k3.onrender.com/");
+        const newSocket = new WebSocket("wss://chess-backend-2-u0k3.onrender.com");
         
         newSocket.onopen = () =>{
             console.log("Connected to WebSocket server");
