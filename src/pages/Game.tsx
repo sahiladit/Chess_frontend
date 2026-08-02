@@ -194,6 +194,7 @@ export default function Game() {
                 {/* Chessboard */}
 
                 <div className="lg:col-span-2 flex justify-center">
+                    <div className="w-full max-w-[650px]">
 
                     <ChessBoard
 
@@ -212,7 +213,7 @@ export default function Game() {
                         lastMove={lastMove}
 
                     />
-
+                    </div>
                 </div>
 
                 {/* Sidebar */}
